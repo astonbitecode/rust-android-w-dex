@@ -11,7 +11,7 @@ keywords = ["android", "ndk", "jni", "java"]
 categories = ["os", "os::android-apis", "api-bindings"]
 
 [dependencies]
-jni = "0.21"
+j4rs ={ git = "https://github.com/astonbitecode/j4rs/"}
 # TODO: Or take the raw env directly
 android-activity = { version = "0.6", features = ["native-activity"] }
 
