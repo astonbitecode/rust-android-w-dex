@@ -1,0 +1,3 @@
+android:
+  dexes:
+    - classes.dex
